@@ -11,6 +11,7 @@ namespace BranchAndMerge
         static void Main(string[] args)
         {
             Console.WriteLine("We be branching");
+            Console.WriteLine("We are branched");
         }
     }
 }
